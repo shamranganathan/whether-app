@@ -1,4 +1,4 @@
-  .section__descriptions{
+   .section__descriptions{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap:2.5rem;
@@ -43,4 +43,6 @@
 }
 
     
+  
+
 

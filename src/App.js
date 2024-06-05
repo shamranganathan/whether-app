@@ -4,6 +4,7 @@ import Descriptions from './components/Descriptions';
 import { useEffect, useState } from 'react';
 import { getFormattedWeatherData } from './weatherService';
 
+
 import'./App.css';
 
 
@@ -70,6 +71,7 @@ function App() {
       )
       }
       </div>
+      
       </div>
   );
 }
